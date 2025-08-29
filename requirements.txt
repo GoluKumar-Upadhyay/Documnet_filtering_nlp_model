@@ -12,3 +12,5 @@ html2docx==1.6.0 # HTML → DOCX
 sumy==0.11.0 # TextRank summarizer
 gunicorn
 reportlab
+transformers
+torch
